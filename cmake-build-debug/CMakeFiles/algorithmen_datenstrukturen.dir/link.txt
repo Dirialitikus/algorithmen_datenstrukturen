@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/algorithmen_datenstrukturen.dir/graph.cpp.o -o algorithmen_datenstrukturen.exe -Wl,--out-implib,libalgorithmen_datenstrukturen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
